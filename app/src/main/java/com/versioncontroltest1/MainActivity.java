@@ -15,7 +15,5 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "this is my second commit", Toast.LENGTH_SHORT).show();
 
-        hello this is random code writing
-
     }
 }
