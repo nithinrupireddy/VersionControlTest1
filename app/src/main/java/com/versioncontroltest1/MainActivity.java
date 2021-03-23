@@ -12,12 +12,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         Toast.makeText(this, "this is my second commit", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "fifth commit", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "sixth commit", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "seventh commit", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "Eight commit", Toast.LENGTH_SHORT).show();
-
+        Toast.makeText(this, "Nineth commit", Toast.LENGTH_SHORT).show();
     }
 }
